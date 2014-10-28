@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MySecondHometask</string>
+    <string name="btn_ok">Okay</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="item1">Person</string>
+    <string name="item2">Message</string>
+    <string name="item3">Favorites</string>
+    <string name="item4">Search</string>
+    <string name="btn_anim_page">Animation Page</string>
+    <string name="btn_back">Back To Main Page</string>
+    <string name="tv">Animation</string>
+    <string name="btn_name_one">Анимация 1</string>
+    <string name="btn_name_two">Анимация 2</string>
+    <string name="btn_name_three">Анимация 3</string>
+    <string name="btn_name_four">Анимация 4</string>
+    <string name="btn_name_five">Анимация 5</string>
+
+</resources>

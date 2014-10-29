@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res" >
+            <file
+                name="alpha_animation"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\anim\alpha_animation.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="rotate_animation"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\anim\rotate_animation.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="scale_animation"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\anim\scale_animation.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="set_animation"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\anim\set_animation.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="translate_animation"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\anim\translate_animation.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="android_img"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable\android_img.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="earth"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable\earth.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_favorites"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable\icon_favorites.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_message"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable\icon_message.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_person"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable\icon_person.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_search"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable\icon_search.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable\ic_launcher.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="img_cancel"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable\img_cancel.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="img_ok"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable\img_ok.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="jupiter"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable\jupiter.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="mars"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable\mars.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="mercury"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable\mercury.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="neptune"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable\neptune.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="saturn"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable\saturn.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="uranus"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable\uranus.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="venus"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable\venus.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="action_search"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable-hdpi\action_search.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable-hdpi\drawer_shadow.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable-hdpi\ic_drawer.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="action_search"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable-mdpi\action_search.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable-mdpi\drawer_shadow.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable-mdpi\ic_drawer.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="action_search"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable-xhdpi\action_search.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable-xhdpi\drawer_shadow.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable-xhdpi\ic_drawer.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable-xxhdpi\ic_drawer.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="animation_layout"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\layout\animation_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="button_layout"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\layout\button_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="drawer_list_item"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\layout\drawer_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_planet"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\layout\fragment_planet.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="image_layout"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\layout\image_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main_layout"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\layout\main_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="btn_name_five" >Animation 5
+                </string>
+                <string name="action_websearch" >Web search
+                </string>
+                <string name="btn_name_three" >Animation 3
+                </string>
+                <string name="drawer_close" >Close navigation drawer
+                </string>
+                <string name="btn_cancel" >Cancel
+                </string>
+                <string name="btn_name_four" >Animation 4
+                </string>
+                <string name="btn_anim_page" >Animation Page
+                </string>
+                <string name="btn_ok" >Okay
+                </string>
+                <string name="item1" >Person
+                </string>
+                <string name="item2" >Message
+                </string>
+                <string name="item3" >Favorites
+                </string>
+                <string name="tv" >Animation
+                </string>
+                <string name="item4" >Search
+                </string>
+                <string name="app_name" >MySecondHometask
+                </string>
+                <string name="btn_name_two" >Animation 2
+                </string>
+                <string name="btn_name_one" >Animation 1
+                </string>
+                <string name="action_search" >Search
+                </string>
+                <string name="drawer_open" >Open navigation drawer
+                </string>
+                <string name="btn_back" >Back To Main Page
+                </string>
+
+                <string-array name="planets_array" >
+                    <item>
+Mercury
+                    </item>
+                    <item>
+Venus
+                    </item>
+                    <item>
+Earth
+                    </item>
+                    <item>
+Mars
+                    </item>
+                    <item>
+Jupiter
+                    </item>
+                    <item>
+Saturn
+                    </item>
+                    <item>
+Uranus
+                    </item>
+                    <item>
+Neptune
+                    </item>
+                </string-array>
+
+                <string name="app_not_available" >Sorry, there\'s no web browser available
+                </string>
+            </file>
+            <file
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="E:\GeekHub\Hometask2\MySecondHometask\app\src\main\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="E:\GeekHub\Hometask2\MySecondHometask\app\build\generated\res\rs\debug" />
+        <source path="E:\GeekHub\Hometask2\MySecondHometask\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="E:\GeekHub\Hometask2\MySecondHometask\app\src\debug\res" />
+    </dataSet>
+
+</merger>

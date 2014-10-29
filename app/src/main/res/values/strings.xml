@@ -11,10 +11,29 @@
     <string name="btn_anim_page">Animation Page</string>
     <string name="btn_back">Back To Main Page</string>
     <string name="tv">Animation</string>
-    <string name="btn_name_one">Анимация 1</string>
-    <string name="btn_name_two">Анимация 2</string>
-    <string name="btn_name_three">Анимация 3</string>
-    <string name="btn_name_four">Анимация 4</string>
-    <string name="btn_name_five">Анимация 5</string>
+    <string name="btn_name_one">Animation 1</string>
+    <string name="btn_name_two">Animation 2</string>
+    <string name="btn_name_three">Animation 3</string>
+    <string name="btn_name_four">Animation 4</string>
+    <string name="btn_name_five">Animation 5</string>
+
+    <string name="action_search">Search</string>
+
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
 
 </resources>
